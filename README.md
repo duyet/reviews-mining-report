@@ -1,6 +1,6 @@
 # Reviews Mining Report
 
-Live presentation at: https://reviews-mining-report.duyetdev.com
+Live presentation at: http://duyet.github.io/reviews-mining-report
 
 <img src="https://i.imgur.com/JirPKTR.png" />
 
